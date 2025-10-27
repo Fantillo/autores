@@ -1,3 +1,4 @@
 -- Autores --
 
-1. Yo
+1. Fernando Ocampo
+2. Hector Zavala
